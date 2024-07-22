@@ -16,6 +16,9 @@ To facilitate intuitive and actionable insights, consumed views were created bas
 ## Outcome and Benefits:
 Through this project, we achieved significant improvements in data accessibility, accuracy, and reporting agility. Stakeholders benefited from timely and relevant insights derived from consolidated OEM data, empowering informed decision-making and strategic planning. The integration of API-driven data extraction, structured transformation, and Power BI reporting not only enhanced operational efficiency but also positioned the organization for future scalability and innovation in data analytics.
 
-## Architechture
+## High-level Architechture
 ![oem](https://github.com/user-attachments/assets/3cb99aff-4f74-4c74-b5b3-d258a7d141fe)
 
+## Data factory transformation
+
+![Screenshot 2024-07-21 203656](https://github.com/user-attachments/assets/779c536d-e3c0-4a75-8324-2d88655e5cca)
